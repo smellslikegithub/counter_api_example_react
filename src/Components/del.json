@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Amber",
+                "last": "Miles"
+            },
+            "location": {
+                "street": {
+                    "number": 7949,
+                    "name": "Park Road"
+                },
+                "city": "Loughrea",
+                "state": "Cork",
+                "country": "Ireland",
+                "postcode": 71145,
+                "coordinates": {
+                    "latitude": "21.7888",
+                    "longitude": "40.1230"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "amber.miles@example.com",
+            "login": {
+                "uuid": "1947ca91-a55f-4375-8540-9ae89dedbb83",
+                "username": "angrylion709",
+                "password": "dookie",
+                "salt": "ut0nBvVx",
+                "md5": "3ea5597ca95aa0564840ada2720d14f0",
+                "sha1": "a1a519e8d51eec77b5f5f6090dc4f4a3b97a436f",
+                "sha256": "ba7ff2574f8c3a53810207ff72d02e21b4a3717e4b86caaba1a0c6dbf6cfcfd9"
+            },
+            "dob": {
+                "date": "1993-09-21T06:29:13.681Z",
+                "age": 27
+            },
+            "registered": {
+                "date": "2011-03-31T09:08:44.555Z",
+                "age": 9
+            },
+            "phone": "061-887-7514",
+            "cell": "081-993-9526",
+            "id": {
+                "name": "PPS",
+                "value": "4353294T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/59.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+            },
+            "nat": "IE"
+        }
+    ],
+    "info": {
+        "seed": "8f9a08f27db0708c",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
